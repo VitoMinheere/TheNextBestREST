@@ -1,0 +1,9 @@
+# Django
+django
+djangorestframework
+markdown
+django-filter
+
+# Flask
+
+# Fast API
